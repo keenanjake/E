@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eminem - Official Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #800080;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h1 {
+            color: #800080;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #800080;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Eminem</h1>
+        <p>The Rap God</p>
+    </header>
+
+    <section>
+        <h2>About Eminem</h2>
+        <p>Eminem, also known as Slim Shady, is a legendary rapper, songwriter, and record producer. With an
+            unparalleled career in the music industry, Eminem has left an indelible mark on the world of hip-hop.</p>
+    </section>
+
+    <section>
+        <h2>Latest Releases</h2>
+        <p>Check out Eminem's latest tracks and albums on your favorite music platforms.</p>
+        <!-- https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR?si=LUeW46D3Q52nPSL2mV_FzA -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Eminem. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
